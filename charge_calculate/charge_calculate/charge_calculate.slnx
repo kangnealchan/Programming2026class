@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="charge_calculate.vcxproj" Id="4c168720-e9ee-4cf7-a7e7-de6e0854989d" />
+</Solution>
