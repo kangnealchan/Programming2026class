@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Ohm's_la.38365eed\\x64\\Debug\\main.obj",
+            "outputs": [
+                "Ohm's_la.38365eed\\x64\\Debug\\main.cpp.obj.dt.module.json",
+                "Ohm's_la.38365eed\\x64\\Debug\\main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
