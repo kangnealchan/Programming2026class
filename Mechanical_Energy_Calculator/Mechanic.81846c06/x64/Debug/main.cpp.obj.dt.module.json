@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Mechanic.81846c06\\x64\\Debug\\main.obj",
+            "outputs": [
+                "Mechanic.81846c06\\x64\\Debug\\main.cpp.obj.dt.module.json",
+                "Mechanic.81846c06\\x64\\Debug\\main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

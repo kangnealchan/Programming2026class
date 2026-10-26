@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Mechanical_Energy_Calculator.vcxproj" Id="81846c06-212e-4771-a8f3-e7f1d1a7c89d" />
+</Solution>
