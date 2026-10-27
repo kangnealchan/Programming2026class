@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Spaceship_escape.vcxproj" Id="e7cf81c2-218f-44c8-a5bb-a40e86134e69" />
+</Solution>

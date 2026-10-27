@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Magic_Bending_Machine.vcxproj" Id="ae1b377d-2dc7-4ef1-9dd5-ec299fbb1477" />
+</Solution>
