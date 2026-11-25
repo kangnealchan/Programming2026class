@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="lotto_simulator.vcxproj" Id="9f8815d8-09a7-432b-bd59-8914d9a2905b" />
+</Solution>

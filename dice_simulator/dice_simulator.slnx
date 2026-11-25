@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="report3_dice_stdio.c.vcxproj" Id="f1518925-21ea-4fc2-8d0c-ea7f91a8d9f8" />
+</Solution>
